@@ -4,7 +4,7 @@ A collection of analog quartz clocks styled with 10 distinct visual themes, buil
 
 ## Live Demo
 
-Open `index.html` directly in any browser — no server, no dependencies, no build step required.
+Open [Clocks in Themes](https://tengyanhaiin-star.github.io/Clocks-in-Themes/) directly in any browser — no server, no dependencies, no build step required.
 
 ## Features
 
