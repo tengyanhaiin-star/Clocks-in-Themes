@@ -368,13 +368,13 @@ function drawClock() {
   }
 
   const nums = [12,1,2,3,4,5,6,7,8,9,10,11];
-  ctx.font = `400 80px ${C.font}, system-ui, sans-serif`;
+  ctx.font = `400 96px ${C.font}, system-ui, sans-serif`;
   ctx.fillStyle = C.numText;
   ctx.textAlign = 'center';
   ctx.textBaseline = 'middle';
   for (let i = 0; i < 12; i++) {
     const angle = (i / 12) * Math.PI * 2 - Math.PI / 2;
-    const nr = R - 60;
+    const nr = R - 72;
     const nx = CX + Math.cos(angle) * nr;
     const ny = CY + Math.sin(angle) * nr;
     ctx.fillText(nums[i], nx, ny);
