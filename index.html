@@ -374,7 +374,7 @@ function drawClock() {
   ctx.textBaseline = 'middle';
   for (let i = 0; i < 12; i++) {
     const angle = (i / 12) * Math.PI * 2 - Math.PI / 2;
-    const nr = R - 72;
+    const nr = R - 68;
     const nx = CX + Math.cos(angle) * nr;
     const ny = CY + Math.sin(angle) * nr;
     ctx.fillText(nums[i], nx, ny);
