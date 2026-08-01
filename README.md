@@ -42,12 +42,6 @@ Open [Clocks in Themes](https://tengyanhaiin-star.github.io/Clocks-in-Themes/) d
 
 All fonts are loaded from [Google Fonts](https://fonts.google.com). An internet connection is required for fonts to display correctly.
 
-## Usage
-
-1. Download `index.html`
-2. Open it in any modern browser (Safari, Chrome, Firefox, Edge)
-3. On iPhone: open in Safari → tap Share → **Add to Home Screen** for a full-screen web app experience
-
 ## Technical Notes
 
 - Pure HTML5 Canvas — no frameworks, no build tools
